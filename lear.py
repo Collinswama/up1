@@ -1,6 +1,9 @@
-gene1=brac1
+from tkinter import Y
 
-gene2=brac2
+
+gene1="brac"
+
+gene2="brac"
 
 mut_one="malignancy of the mammary glands"
 
@@ -11,3 +14,10 @@ print(gene1)
 print(gene2)
 print(mut_one)
 print(mut_two)
+xs=16
+ys=24
+
+sum= xs+ys
+product=xs*ys
+print(sum)
+print(product)
