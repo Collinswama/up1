@@ -21,3 +21,10 @@ sum= xs+ys
 product=xs*ys
 print(sum)
 print(product)
+#precission
+##natural language processing
+"""the twitter crash when it was thought the white house had been bombmed
+the markets and the interplay between these complex systems
+gets everybody hyped up
+what caused the crash is a non sensical questions"""
+
